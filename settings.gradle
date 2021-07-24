@@ -1,0 +1,3 @@
+include ':app'
+include ':seek_android_sdk'
+rootProject.name = "Heat sink"
